@@ -6,4 +6,4 @@ whisper
 torch>=2.1.0
 numpy
 ffmpeg-python
-google.generativeai
+google-genai
