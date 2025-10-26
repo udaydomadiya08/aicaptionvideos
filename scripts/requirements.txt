@@ -1,0 +1,9 @@
+streamlit
+openai
+whisper
+moviepy
+python-dotenv
+pysrt
+requests
+google-genai 
+
